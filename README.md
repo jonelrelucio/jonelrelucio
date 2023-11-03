@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+![Contributions](https://github-readme-stats.vercel.app/api?username=jonelrelucio&show_icons=true&line_height=24&count_private=true&theme=transparent)
 
 ---
 
