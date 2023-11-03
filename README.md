@@ -1,6 +1,9 @@
 ![Metrics](/github-metrics.svg)
 
 
+![Metrics](/metrics.plugin.achievements.compact.svg)
+
+
 - 👋 Hi, I’m @jonelrelucio
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
