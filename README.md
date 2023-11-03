@@ -4,6 +4,9 @@
 ![Metrics](/metrics.plugin.achievements.compact.svg)
 
 
+![Metrics](metrics.plugin.isocalendar.fullyear.svg)
+
+
 - 👋 Hi, I’m @jonelrelucio
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
