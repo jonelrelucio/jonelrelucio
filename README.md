@@ -1,4 +1,6 @@
+<!---
 ![Contributions](https://github-readme-stats.vercel.app/api?username=jonelrelucio&show_icons=true&line_height=24&count_private=true&theme=transparent)
+--->
 
 ---
 
