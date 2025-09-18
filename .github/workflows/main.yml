@@ -24,6 +24,7 @@ jobs:
             scripter, packager, explorer, infographile, manager
           plugin_achievements_display: compact
           plugin_achievements_threshold: 1
+          plugin_achievements_limit: 20
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
