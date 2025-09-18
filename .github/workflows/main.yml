@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: stalomeow/metrics@projects-v2 # lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.achievements.compact.svg
+          filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           
           base: ""
